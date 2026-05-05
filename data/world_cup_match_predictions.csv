@@ -1,0 +1,6 @@
+Match,Brazil Win Probability,Brazil Not Win Probability,Argentina Win Probability,Argentina Not Win Probability,Spain Win Probability,Spain Not Win Probability,United States Win Probability,United States Not Win Probability,Portugal Win Probability,Portugal Not Win Probability
+Brazil vs France,0.099,0.901,,,,,,,,
+Argentina vs England,,,0.182,0.818,,,,,,
+Spain vs Germany,,,,,0.358,0.642,,,,
+United States vs Mexico,,,,,,,0.325,0.675,,
+Portugal vs Netherlands,,,,,,,,,0.084,0.916
