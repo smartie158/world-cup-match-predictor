@@ -32,6 +32,18 @@ The model uses recent team performance metrics, including:
 ## Model 
 A random Forest Classifier was used as the baseline model because it can capture nonlinear relationships between team performance features and match outcomes. 
 
+## AI-Generated Bracket Simulation
+
+This Project also includes a planned AI-generated elimination bracket. The model predicts each knockout matchup, advances the team with the higher predicted win probability, and repeats the process until a projected champion is selected. 
+
+The Bracket simulation includes:
+
+- Round of 16
+- Quarter Finals
+- Semifinals
+- Final
+- Predicted Champion
+
 ## Repository Structure
 ```text
 data/
